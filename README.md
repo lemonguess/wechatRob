@@ -114,7 +114,7 @@ if __name__ == '__main__':
 链接：https://pan.baidu.com/s/1PDVo8VDr5mtRd4tu7z5tEw?pwd=ybch
 提取码：ybch
 
-![image-20230529200242365](D:\workspace\wechatRob\README.assets\image-20230529200242365.png)
+![image-20230529200242365](https://lemon-guess.oss-cn-hangzhou.aliyuncs.com/img/image-20230529200242365.png)
 
 - 其他框架推荐：
   https://itchat.readthedocs.io/zh/latest/
@@ -132,21 +132,21 @@ if __name__ == '__main__':
 
 可爱猫的ihttp插件，逻辑是，通过可爱猫软件启动指定版本的微信，将微信的各种收发等操作通过sdk中转，接收到的消息会post给开发者指定的接口，开发者也可以按一定的格式，将操作信息post给可爱猫的SDK，以完成对微信的操作
 
-![img](D:\workspace\wechatRob\README.assets\1_DZMRMHVSHT6GBMS.png)
+![img](https://lemon-guess.oss-cn-hangzhou.aliyuncs.com/img/1_DZMRMHVSHT6GBMS.png)
 
 ### 2.使用流程
 
 安装就不说了，但是注意，不同版本的可爱猫，要安装指定版本的微信哦
 
-![image-20230529201103709](D:\workspace\wechatRob\README.assets\image-20230529201103709.png)
+![image-20230529201103709](https://lemon-guess.oss-cn-hangzhou.aliyuncs.com/img/image-20230529201103709.png)
 
-![image-20230529201311535](D:\workspace\wechatRob\README.assets\image-20230529201311535.png)
+![image-20230529201311535](https://lemon-guess.oss-cn-hangzhou.aliyuncs.com/img/image-20230529201311535.png)
 
-![image-20230529201424408](D:\workspace\wechatRob\README.assets\image-20230529201424408.png)
+![image-20230529201424408](https://lemon-guess.oss-cn-hangzhou.aliyuncs.com/img/image-20230529201424408.png)
 
-![image-20230529201548143](D:\workspace\wechatRob\README.assets\image-20230529201548143.png)
+![image-20230529201548143](https://lemon-guess.oss-cn-hangzhou.aliyuncs.com/img/image-20230529201548143.png)
 
-![image-20230529201851552](D:\workspace\wechatRob\README.assets\image-20230529201851552.png)
+![image-20230529201851552](https://lemon-guess.oss-cn-hangzhou.aliyuncs.com/img/image-20230529201851552.png)
 
 ### 3.服务端开发简述
 
